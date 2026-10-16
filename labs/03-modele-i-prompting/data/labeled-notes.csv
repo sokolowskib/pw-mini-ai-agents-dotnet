@@ -1,54 +1,54 @@
 id,note,floor,elevator
-NOTE-001,Bajkolandia,,
-NOTE-002,"kod #xxxxx#, 2 piętro. Uprzedzić telefonicznie rano, że będzie dostawa !!!!!!",,
-NOTE-003,"Wjazd od ul. Radiowej przez bramę nr 4 i w prawo. 2 budynek po prawej. dostawy na 3,2, 1 piętro oraz na -1",,
-NOTE-004,DOSTAWY MOŻLIWE W poniedziałki pracują zwykle 10 -11 potem po 16 do 20,,
-NOTE-005,"Osiedle Eskadra, kl 8, p. 2",,
-NOTE-006,DOSTAWA TYLKO ZA GOTÓWKĘ DZWONIĆ 20 MIN PRZED DOSTAWĄ. Butle są wystawione pod drzwiami,,
-NOTE-007,butle są na 1 piętrze,,
-NOTE-008,"WYMIENIAĆ BUTLE  NA PARTERZE , PIERWSZYM I DRUGIM PIĘTRZE oraz sala sportowa",,
-NOTE-009,kod 1klucz 0000,,
-NOTE-010,Butle są zawsze wystawione pod drzwiami - - kod 59kluczyk0000. piętro 3 bez windy,,
-NOTE-011,DOSTAWA TYLKO ZA GOTÓWKĘ DOSTAWA TYLKO ZA GOTÓWKĘ Wcześniej dzwonić;  zeby otworzyc brame trzeba na domofonie wcisnac 999 i zadzwonic i brama sie otworzy,,
-NOTE-012,NULL,,
-NOTE-013,p. IX;  109gwiazdka0000,,
-NOTE-014,P. I;  259gwiazdka0000,,
-NOTE-015,kod 22(kluczyk)0000,,
-NOTE-016,Telefon przed dostawą!!! 2 PIĘTRO 13kluczyk0000,,
-NOTE-017,DOSTAWA TYLKO ZA GOTÓWKĘ,,
-NOTE-018,DOSTAWY NAJLEPIEJ OD 14  / DZOWNIĆ WCZESNIEJ TO KTOS PRZYJDZIE NA  13,,
-NOTE-019,Preferowane dostawy w godzinach popołudniwych. kod 26kluczyk0000,,
-NOTE-020,"MAZDA.  Komis samochodowy na górce przy stacji ""xxxxx xxxx"" z tyłu za salonem na parkingu - biuro",,
-NOTE-021,Bajkolandia,,
-NOTE-022,Bajkolandia,,
-NOTE-023,"kod #00000#, 2 piętro. Uprzedzić telefonicznie rano, że będzie dostawa !!!!!!",,
-NOTE-024,"Wjazd od ul. Radiowej przez bramę nr 4 i w prawo. 2 budynek po prawej. dostawy na 3,2, 1 piętro oraz na -1",,
-NOTE-025,DOSTAWY MOŻLIWE W poniedziałki pracują zwykle 10 -11 potem po 16 do 20,,
-NOTE-026,"Osiedle Eskadra, kl 8, p. 2",,
-NOTE-027,DOSTAWA TYLKO ZA GOTÓWKĘ DZWONIĆ 20 MIN PRZED DOSTAWĄ. Butle są wystawione pod drzwiami,,
-NOTE-028,butle są na 1 piętrze,,
-NOTE-029,"WYMIENIAĆ BUTLE  NA PARTERZE , PIERWSZYM I DRUGIM PIĘTRZE oraz sala sportowa",,
-NOTE-030,kod 1klucz 0000,,
-NOTE-031,"kod 152klucz0000. VII piętro - winda, klatka 5 KONIECZNY TEL OK 10 MIN PRZED DOSTAWĄ !!!!!",,
-NOTE-032,Butle są zawsze wystawione pod drzwiami - - kod 59kluczyk00000. piętro 3 bez windy,,
-NOTE-033,DOSTAWA TYLKO ZA GOTÓWKĘ DOSTAWA TYLKO ZA GOTÓWKĘ Wcześniej dzwonić;  zeby otworzyc brame trzeba na domofonie wcisnac 999 i zadzwonic i brama sie otworzy,,
-NOTE-034,NULL,,
-NOTE-035,"Budynek E parter i I piętro pok. 1110 oraz budynek A, parter i 1 piętro na korytarzu",,
-NOTE-036,1 piętro,,
-NOTE-037,p. IX;  109gwiazdka0000,,
-NOTE-038,P. I;  259gwiazdka0000,,
-NOTE-039,kod 22(kluczyk)0000,,
-NOTE-040,Telefon przed dostawą!!! 2 PIĘTRO 13kluczyk0000,,
-NOTE-041,DOSTAWA TYLKO ZA GOTÓWKĘ,,
-NOTE-042,DOSTAWY NAJLEPIEJ OD 14  / DZOWNIĆ WCZESNIEJ TO KTOS PRZYJDZIE NA  13,,
-NOTE-043,Preferowane dostawy w godzinach popołudniwych. kod 26kluczyk0000,,
-NOTE-044,Dzownić przed dostawą 000-000-000. Parter. W środku galerii,,
-NOTE-045,"WJAZD OD UL. DROGOMILSKIEJ. KONIECZNY TEL OK GODZINĘ PRZED DOSTAWĄ. .Nowy kod do domofonu to 26klucz0000. Ze względu na specyfikę naszej pracy nie zawsze możemy odebrać telefon lub otworzyć panu dostawcy, dlatego prosimy o pozostawianie baniakow przed drzwiami.",,
-NOTE-046,"Za szlabanem , obok Sushi. Koniecznie dzwonic ok 30 minut przed dostawą. Salon MEN""S SPACE",,
-NOTE-047,NULL,,
-NOTE-048,Bajkolandia,,
-NOTE-049,"kod #0000#, 2 piętro. Uprzedzić telefonicznie rano, że będzie dostawa !!!!!!",,
-NOTE-050,"Wjazd od ul. Radiowej przez bramę nr 4 i w prawo. 2 budynek po prawej. dostawy na 3,2, 1 piętro oraz na -1",,
+NOTE-001,Bajkolandia,null,null
+NOTE-002,"kod #xxxxx#, 2 piętro. Uprzedzić telefonicznie rano, że będzie dostawa !!!!!!",2,null
+NOTE-003,"Wjazd od ul. Radiowej przez bramę nr 4 i w prawo. 2 budynek po prawej. dostawy na 3,2, 1 piętro oraz na -1",null,null
+NOTE-004,DOSTAWY MOŻLIWE W poniedziałki pracują zwykle 10 -11 potem po 16 do 20,null,null
+NOTE-005,"Osiedle Eskadra, kl 8, p. 2",2,null
+NOTE-006,DOSTAWA TYLKO ZA GOTÓWKĘ DZWONIĆ 20 MIN PRZED DOSTAWĄ. Butle są wystawione pod drzwiami,null,null
+NOTE-007,butle są na 1 piętrze,1,null
+NOTE-008,"WYMIENIAĆ BUTLE  NA PARTERZE , PIERWSZYM I DRUGIM PIĘTRZE oraz sala sportowa",null,null
+NOTE-009,kod 1klucz 0000,null,null
+NOTE-010,Butle są zawsze wystawione pod drzwiami - - kod 59kluczyk0000. piętro 3 bez windy,3,false
+NOTE-011,DOSTAWA TYLKO ZA GOTÓWKĘ DOSTAWA TYLKO ZA GOTÓWKĘ Wcześniej dzwonić;  zeby otworzyc brame trzeba na domofonie wcisnac 999 i zadzwonic i brama sie otworzy,null,null
+NOTE-012,NULL,null,null
+NOTE-013,p. IX;  109gwiazdka0000,9,null
+NOTE-014,P. I;  259gwiazdka0000,1,null
+NOTE-015,kod 22(kluczyk)0000,null,null
+NOTE-016,Telefon przed dostawą!!! 2 PIĘTRO 13kluczyk0000,2,null
+NOTE-017,DOSTAWA TYLKO ZA GOTÓWKĘ,null,null
+NOTE-018,DOSTAWY NAJLEPIEJ OD 14  / DZOWNIĆ WCZESNIEJ TO KTOS PRZYJDZIE NA  13,null,null
+NOTE-019,Preferowane dostawy w godzinach popołudniwych. kod 26kluczyk0000,null,null
+NOTE-020,"MAZDA.  Komis samochodowy na górce przy stacji ""xxxxx xxxx"" z tyłu za salonem na parkingu - biuro",null,null
+NOTE-021,Bajkolandia,null,null
+NOTE-022,Bajkolandia,null,null
+NOTE-023,"kod #00000#, 2 piętro. Uprzedzić telefonicznie rano, że będzie dostawa !!!!!!",2,null
+NOTE-024,"Wjazd od ul. Radiowej przez bramę nr 4 i w prawo. 2 budynek po prawej. dostawy na 3,2, 1 piętro oraz na -1",null,null
+NOTE-025,DOSTAWY MOŻLIWE W poniedziałki pracują zwykle 10 -11 potem po 16 do 20,null,null
+NOTE-026,"Osiedle Eskadra, kl 8, p. 2",2,null
+NOTE-027,DOSTAWA TYLKO ZA GOTÓWKĘ DZWONIĆ 20 MIN PRZED DOSTAWĄ. Butle są wystawione pod drzwiami,null,null
+NOTE-028,butle są na 1 piętrze,1,null
+NOTE-029,"WYMIENIAĆ BUTLE  NA PARTERZE , PIERWSZYM I DRUGIM PIĘTRZE oraz sala sportowa",null,null
+NOTE-030,kod 1klucz 0000,null,null
+NOTE-031,"kod 152klucz0000. VII piętro - winda, klatka 5 KONIECZNY TEL OK 10 MIN PRZED DOSTAWĄ !!!!!",7,true
+NOTE-032,Butle są zawsze wystawione pod drzwiami - - kod 59kluczyk00000. piętro 3 bez windy,3,false
+NOTE-033,DOSTAWA TYLKO ZA GOTÓWKĘ DOSTAWA TYLKO ZA GOTÓWKĘ Wcześniej dzwonić;  zeby otworzyc brame trzeba na domofonie wcisnac 999 i zadzwonic i brama sie otworzy,null,null
+NOTE-034,NULL,null,null
+NOTE-035,"Budynek E parter i I piętro pok. 1110 oraz budynek A, parter i 1 piętro na korytarzu",null,null
+NOTE-036,1 piętro,1,null
+NOTE-037,p. IX;  109gwiazdka0000,9,null
+NOTE-038,P. I;  259gwiazdka0000,1,null
+NOTE-039,kod 22(kluczyk)0000,null,null
+NOTE-040,Telefon przed dostawą!!! 2 PIĘTRO 13kluczyk0000,2,null
+NOTE-041,DOSTAWA TYLKO ZA GOTÓWKĘ,null,null
+NOTE-042,DOSTAWY NAJLEPIEJ OD 14  / DZOWNIĆ WCZESNIEJ TO KTOS PRZYJDZIE NA  13,null,null
+NOTE-043,Preferowane dostawy w godzinach popołudniwych. kod 26kluczyk0000,null,null
+NOTE-044,Dzownić przed dostawą 000-000-000. Parter. W środku galerii,0,null
+NOTE-045,"WJAZD OD UL. DROGOMILSKIEJ. KONIECZNY TEL OK GODZINĘ PRZED DOSTAWĄ. .Nowy kod do domofonu to 26klucz0000. Ze względu na specyfikę naszej pracy nie zawsze możemy odebrać telefon lub otworzyć panu dostawcy, dlatego prosimy o pozostawianie baniakow przed drzwiami.",null,null
+NOTE-046,"Za szlabanem , obok Sushi. Koniecznie dzwonic ok 30 minut przed dostawą. Salon MEN""S SPACE",null,null
+NOTE-047,NULL,null,null
+NOTE-048,Bajkolandia,null,null
+NOTE-049,"kod #0000#, 2 piętro. Uprzedzić telefonicznie rano, że będzie dostawa !!!!!!",2,null
+NOTE-050,"Wjazd od ul. Radiowej przez bramę nr 4 i w prawo. 2 budynek po prawej. dostawy na 3,2, 1 piętro oraz na -1",null,null
 NOTE-051,DOSTAWY MOŻLIWE W poniedziałki pracują zwykle 10 -11 potem po 16 do 20,,
 NOTE-052,"Osiedle Eskadra, kl 8, p. 2",,
 NOTE-053,Dzownić przed dostawą 000-000-000. Parter. W środku galerii,,

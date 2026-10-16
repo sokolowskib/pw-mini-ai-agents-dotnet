@@ -5,10 +5,11 @@ public record LabeledNote(string Id, string Note, int? Floor, bool? Elevator);
 public static class TestData
 {
     // Notatki testowe z oczekiwanym wynikiem
-    public static IReadOnlyList<LabeledNote> Examples => Load("examples.csv");
+    public static IReadOnlyList<LabeledNote> Examples => Load("labeled-notes.csv");
 
     // Przykłady używane w promptach one-shot i few-shot (inne niż notatki testowe)
     public static IReadOnlyList<LabeledNote> PromptExamples => Load("prompt-examples.csv");
+    public static IReadOnlyList<LabeledNote> OneShowExample => Load("one-shot.csv");
 
     private static IReadOnlyList<LabeledNote> Load(string fileName)
     {
@@ -18,11 +19,10 @@ public static class TestData
             .Skip(1)
             .Where(line => !string.IsNullOrWhiteSpace(line))
             .Select(ParseLine)
-            .Select(fields => new LabeledNote(
-                fields[0],
-                fields[1],
-                fields[2] == "null" ? null : int.Parse(fields[2]),
-                fields[3] == "null" ? null : bool.Parse(fields[3])))
+            // Pomijamy notatki, które nie mają jeszcze oczekiwanego wyniku
+            .Where(fields => fields[2] != "" && fields[3] != "")
+            .Select(fields => new LabeledNote(fields[0], fields[1], fields[2] == "null" ? null : int.Parse(fields[2]),
+                                              fields[3] == "null" ? null : bool.Parse(fields[3])))
             .ToList();
     }
 

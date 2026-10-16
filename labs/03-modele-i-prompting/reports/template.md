@@ -7,8 +7,8 @@
 
 | Parametr | Wartość |
 |----------|---------|
-| Wersja Ollama | |
-| Sprzęt (CPU/GPU, RAM) | |
+| Wersja Ollama | 0.40.5 |
+| Sprzęt (CPU/GPU, RAM) | Apple M4 Pro / 24GB|
 | Liczba dostępnych notatek | 170 |
 
 ## EXP-00 — Sposób oceny wyników
@@ -17,18 +17,18 @@ Jak oceniamy poprawność odpowiedzi modelu? Jakie metryki przyjmujemy i dlaczeg
 
 | Metryka | Definicja |
 |---------|-----------|
-| | |
+| Exact match | odsetek notatek, dla których model poprawnie rozpoznał jednocześnie oba pola: `floor` i `elevator`|
 
 ## EXP-01 — Porównanie modeli
 
 | Model | Floor accuracy | Elevator accuracy | Exact match | Średni czas [ms] |
 |-------|----------------|-------------------|-------------|------------------|
-| | | | | |
+| gemma3:4b | 0 | 0 | 0| 691 |
+| qwen3:4b| 100 | 100 | 100| 12244 |
 
 
-**Exact match** oznacza odsetek notatek, dla których model poprawnie rozpoznał jednocześnie oba pola: `floor` i `elevator`.
 
-**Wnioski:**
+**Wnioski:** Model qwen3:4b spisuje się świetnie wobec metryki exact_match odgadując wszystkie poprawnie, a gemma3:4b nie odgadł poprawnie ani razu.
 
 ## EXP-02 — Prompting
 
