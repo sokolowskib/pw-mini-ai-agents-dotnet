@@ -36,9 +36,10 @@ public static class Temperature
 
                     watch.Stop();
 
-                    var result = Extraction.Parse(response, out var error);
+                    var wrapped = Extraction.TryUnwrapCodeBlock(response, out var json);
+                    var result = Extraction.Parse(json, out var error);
 
-                    metrics.Add(note, result, watch.ElapsedMilliseconds);
+                    metrics.Add(note, result, watch.ElapsedMilliseconds, wrapped);
                     answers.Add(result?.ToString() ?? error!);
                 }
 
